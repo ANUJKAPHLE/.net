@@ -1,0 +1,15 @@
+﻿@model FacultyModel
+
+<form method="post"asp-action="Create" asp-controller="Faculty">
+    @*asp-for is tag helper*@
+    <label asp-for="Name"></label>
+    <input asp-for="Name" /> <br /> <br />
+
+    <label asp-for="Seats"></label>
+    <input asp-for="Seats" /> <br /><br />
+
+    <label asp-for="TotalFee"></label>
+    <input asp-for="TotalFee" /><br /><br />
+
+    <input type="submit" value=" save" />
+</form>

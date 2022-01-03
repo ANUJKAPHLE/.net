@@ -1,0 +1,40 @@
+D:\.net\college mis system.web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net\college mis system.web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net\college mis system.web\bin\Debug\netcoreapp3.1\college mis system.web.exe
+D:\.net\college mis system.web\bin\Debug\netcoreapp3.1\college mis system.web.deps.json
+D:\.net\college mis system.web\bin\Debug\netcoreapp3.1\college mis system.web.runtimeconfig.json
+D:\.net\college mis system.web\bin\Debug\netcoreapp3.1\college mis system.web.runtimeconfig.dev.json
+D:\.net\college mis system.web\bin\Debug\netcoreapp3.1\college mis system.web.dll
+D:\.net\college mis system.web\bin\Debug\netcoreapp3.1\college mis system.web.pdb
+D:\.net\college mis system.web\bin\Debug\netcoreapp3.1\college mis system.web.Views.dll
+D:\.net\college mis system.web\bin\Debug\netcoreapp3.1\college mis system.web.Views.pdb
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.csproj.AssemblyReference.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.AssemblyInfoInputs.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.AssemblyInfo.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.csproj.CoreCompileInputs.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.RazorAssemblyInfo.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.RazorAssemblyInfo.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\staticwebassets\college mis system.web.StaticWebAssets.Manifest.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\staticwebassets\college mis system.web.StaticWebAssets.xml
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\scopedcss\bundle\college mis system.web.styles.css
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.TagHelpers.input.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.TagHelpers.output.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.RazorCoreGenerate.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.RazorTargetAssemblyInfo.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.RazorTargetAssemblyInfo.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.Views.pdb
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.dll
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.pdb
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.genruntimeconfig.cache
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\college mis system.web.csproj.CopyComplete
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\Razor\Views\faculty\Index.cshtml.g.cs
+D:\.net\college mis system.web\obj\Debug\netcoreapp3.1\Razor\Views\faculty\Create.cshtml.g.cs
